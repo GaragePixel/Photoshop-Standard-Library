@@ -1,7 +1,7 @@
 # Photoshop-Standard-Library
 Standard functions for Photoshop's Action Script
 
-/========================================================================================================================================================
+============================
 
                 ---------------------------------------------------------------------------
                 Photoshop ASD don't means Action Standard Library
@@ -17,4 +17,4 @@ Standard functions for Photoshop's Action Script
 	so I put it online hoping that someone will fork it and continue my work. 
 	In particular, more precise control of the timeline remains to be implemented.
 
-=======================================================================================
+============================
