@@ -16,5 +16,6 @@ Standard functions for Photoshop's Action Script
 	This library is no longer actively developped now, 
 	so I put it online hoping that someone will fork it and continue my work. 
 	In particular, more precise control of the timeline remains to be implemented.
+	This library was already used to make plug-ins. Product-ready.
 
 ============================
